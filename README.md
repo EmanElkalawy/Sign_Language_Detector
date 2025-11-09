@@ -40,22 +40,8 @@ git clone https://github.com/yourusername/sign-language-detector.git
 
 cd sign-language-detector
 
-# Create a virtual environment (optional)
-
-python -m venv venv
-
-venv\Scripts\activate
-
 # Install dependencies
 pip install -r requirements.txt
-
-## 💡 Future Work
-
-Expand to dynamic sign recognition (video sequences)
-
-Integrate speech synthesis for detected signs
-
-Deploy on mobile devices for accessibility
 
 ## 🧰 Technologies Used
 
